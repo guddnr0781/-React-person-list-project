@@ -1,2 +1,2 @@
-# -React-person-list-project
+# [React] person-list-project
 Person List Project
